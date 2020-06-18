@@ -1,6 +1,0 @@
-{
-  "url":"http://staff.backend.qa-saas.heroera.com/api/firm/list",
-  "headers": {"real_operator_id":"24", "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJkYXRhIjp7InN0YWZmX2lkIjoyNzEsInNpZ24iOiJtNHJWZkw3b3hGIiwidHlwZSI6MSwicmVhbF9vcGVyYXRvcl9pZCI6MjQsImVudmlyb25tZW50IjoicWEifX0.Dr27uS9H_2swP937AY2BzPwqIJqxU1EbAVbOBzBmTOYgzRZWmJh9MQgEZ7EtoqP3Cmi9cFF8Q8vpu7KeZAZLbcdsb_CWZacr7rUomcdry1Qil_z4DFBWxcI3K6AtnQ-1K8oYlRlX3cy6Yy0noFqEBJ9qSCs3eLGzP1MUwOHq36mO9eXLlOmP387A4vQy3MNrGfXwHbs3XnGaRo4AkMcvKOa9JpCmMkma7OuF5f50ef9xqtqdxNhfMHaluao0npT7RE8plhUPzFgKfs-t15rg1-s0nIXZVVGjVcbsmg8kK_3jsSHTpJORcofxSbeqy_fO7aBVdqN8M5u3LWBCP0s_8Q"
-    },
-  "code": 200
-}
