@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51f354d7-a29c-456c-9e43-ee4d0d1e232b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/connect_mysql.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="51f354d7-a29c-456c-9e43-ee4d0d1e232b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/connect_mysql.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="70" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+            <state relative-caret-position="475">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
@@ -79,8 +76,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-51" />
-    <option name="y" value="82" />
+    <option name="x" value="-583" />
+    <option name="y" value="51" />
     <option name="width" value="1934" />
     <option name="height" value="1047" />
   </component>
@@ -222,15 +219,15 @@
       <workItem from="1592451789323" duration="4407000" />
       <workItem from="1592468351463" duration="2967000" />
       <workItem from="1592534866143" duration="5160000" />
-      <workItem from="1592613470444" duration="5310000" />
+      <workItem from="1592613470444" duration="6815000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26214000" />
+    <option name="totallyTimeSpent" value="27719000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="499" y="151" width="1934" height="1047" extended-state="0" />
+    <frame x="-583" y="51" width="1934" height="1047" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26360726" />
@@ -345,8 +342,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/connect_mysql.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="70" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+        <state relative-caret-position="475">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
