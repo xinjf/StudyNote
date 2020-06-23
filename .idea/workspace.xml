@@ -41,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/connect_mysql.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="475">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
@@ -76,10 +76,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-583" />
-    <option name="y" value="51" />
+    <option name="x" value="-25" />
+    <option name="y" value="33" />
     <option name="width" value="1934" />
-    <option name="height" value="1047" />
+    <option name="height" value="1067" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -227,8 +227,7 @@
     <option name="totallyTimeSpent" value="27719000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-583" y="51" width="1934" height="1047" extended-state="1" />
-    <editor active="true" />
+    <frame x="-295" y="65" width="1934" height="1047" extended-state="1" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26360726" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -343,7 +342,7 @@
     <entry file="file://$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/connect_mysql.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
