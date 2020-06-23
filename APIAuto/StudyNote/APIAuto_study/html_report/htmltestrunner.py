@@ -67,7 +67,6 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 """
 
 # URL: http://tungwaiyip.info/software/HTMLTestRunner.html
-from tools.log import info
 
 __author__ = "Wai Yip Tung,  Findyou，Adil"
 __version__ = "0.8.2.3"
@@ -522,7 +521,6 @@ class _TestResult(TestResult):
             sys.stderr.write('ok ')
             sys.stderr.write(str(test))
             sys.stderr.write('\n')
-            info("用例{0}执行{1}".format(str(test),'成功'))
         else:
             sys.stderr.write('.')
 
@@ -537,7 +535,6 @@ class _TestResult(TestResult):
             sys.stderr.write('E  ')
             sys.stderr.write(str(test))
             sys.stderr.write('\n')
-            info("用例{0}执行{1}".format(str(test), '错误'))
         else:
             sys.stderr.write('E')
 
@@ -551,7 +548,6 @@ class _TestResult(TestResult):
             sys.stderr.write('F  ')
             sys.stderr.write(str(test))
             sys.stderr.write('\n')
-            info("用例{0}执行{1}".format(str(test), '失败'))
         else:
             sys.stderr.write('F')
 
