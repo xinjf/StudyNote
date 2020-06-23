@@ -19,9 +19,6 @@ def connect_db_1():
     return data
 
 
-print(connect_db_1())
-
-
 def connect_db_2():
     """连接数据库
     直接传入参数
@@ -40,3 +37,4 @@ print(connect_db_2())
 # linux 连接数据库
 # 格式：  mysql -h+(IP地址) -u用户名 -p密码    例子： mysql -h127.0.0.1 -uroot -p111111
 # 查看数据库： 连接数据库后 show databases
+
