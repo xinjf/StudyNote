@@ -3,10 +3,6 @@ import os
 import time
 
 
-<<<<<<< HEAD
-
-=======
->>>>>>> xinj
 def delete_expired_files():
     """删除过期文件
        :param

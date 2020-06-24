@@ -19,12 +19,6 @@ print(options)
 value = conf.get("title1", "key2")
 print(value)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
-=======
->>>>>>> xinj
 # 返回title下所有的key，value
 print(conf.items("title1"))          # 返回列表包含元组
 print(dict(conf.items("title1")))    # 返回字典
@@ -55,7 +49,3 @@ print(dict(con.items("title3")))    # 返回字典
 # 保存操作所做的修改
 with open("read&write.ini", "w+") as f:
     con.write(f)
-<<<<<<< HEAD
->>>>>>> remotes/origin/2020.06.23
-=======
->>>>>>> xinj
