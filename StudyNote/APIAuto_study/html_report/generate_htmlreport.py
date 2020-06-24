@@ -1,6 +1,6 @@
 import os
 import time
-from APIAuto.StudyNote.APIAuto_study.html_report import htmltestrunner
+from StudyNote.APIAuto_study.html_report import htmltestrunner
 
 
 def generate_htmlreport():
