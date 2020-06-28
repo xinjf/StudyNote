@@ -2,6 +2,8 @@
   <dictionary name="xinj">
     <words>
       <w>mktime</w>
+      <w>myproject</w>
+      <w>venv</w>
     </words>
   </dictionary>
 </component>
