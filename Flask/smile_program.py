@@ -32,5 +32,29 @@ def hello_world():
 
 
 """调试模式"""
+# 打开天使模式，服务器会在修改应用代码之后自动重启，并且当应用出错时会提供一个有用的调试器
+# 需要打开所有开发功能(包括调试模式)，服务器之前导出FLASK_ENV环境变量并把设置为development
+# 进入应用所在的文件夹
+# $env:FLASK_APP="smile_program.py"
+# set FLASK_ENV=development
+# flask run
+
+"""路由"""
+# 使用route()装饰器来把函数绑定到URL
+
+
+@app.route("/")
+def index():
+    return "Index Page"
+
+
+@app.route("/hello")
+def hello():
+    return "hello world"
+
+
+
+
+
 
 
