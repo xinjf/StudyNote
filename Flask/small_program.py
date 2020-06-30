@@ -1,6 +1,4 @@
-from glob import escape
-
-from flask import Flask
+from flask import Flask, url_for, escape, request, render_template
 
 # 自定义的模块用一下方式
 # app = Flask("your_application")
@@ -97,33 +95,68 @@ def about():
 
 """URl构建"""
 # url_for()函数用于构建指定函数的url。函数名称作为第一个参数。可以接受任意个关键字参数，每个关键字参数对应URL中的变量。
+# 未知变量将添加到URL中作为查询参数
+
+app = Flask(__name__)
 
 
+@app.route("/")
+def index():
+    return "index"
 
 
+@app.route("/login")
+def login():
+    return "login"
 
 
+@app.route("/uer/<username>")
+def profile(username):
+    return "{}\'s profile".format(escape(username))
 
 
+with app.test_request_context():
+    # 通过反转函数url_for()，动态构建URL
+    print(url_for('index'))
+    print(url_for('login'))
+    print(url_for("login", next='/'))
+    print(url_for('profile', username = 'John Doe'))
+# /
+# /login
+# /login?next=%2F
+# /uer/John%20Doe
+
+"""HTTP方法"""
+# web应用使用不同的http方法处理url。
+# 缺省条件下，一个路由只回应get请求，使用route()装饰器的methods参数来处理不同的http方法
+# 使用的GET方法，FLASK会自动添加HEAD方法支持，按照HTTP RFC来处理HEAD，同样OPTIONS也会自动实现
 
 
+# @app.route('/login', methods = ['get', 'post'])
+# def login():
+#     if request.method == 'post':
+#         return do_the_login()
+#     else:
+#         return show_the_login_form()
+#
+
+"""静态文件"""
+# 动态的web应用也需要静态文件，一般是CSS和Javascript文件。
+# 通常服务器配置好了为你提供静态文件的服务.在开发过程中,FLASK也可以做到.
+# 在你的包或者模块创建一个名为static的文件夹.静态文件位于/static
+# url_for('static', filename = 'style.css')
 
 
+"""渲染模板"""
+# python内部的html不好相对笨拙.需要自己负责html转义,确保应用安全.flask配置了Jinja2模板引擎
+# 使用render_template()方法渲染模板,提供模板名称和需要作为参数传递给模板的变量.
 
 
+@app.route('/hello/')
+@app.route('/hello/<name>')
+def hello(name=None):
+    return render_template('hello.html', name=name)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+# html模板示例, 在template的hello.html
 
 
