@@ -144,9 +144,9 @@ with app.test_request_context():
 # 动态的web应用也需要静态文件，一般是CSS和Javascript文件。
 # 通常服务器配置好了为你提供静态文件的服务.在开发过程中,FLASK也可以做到.
 # 在你的包或者模块创建一个名为static的文件夹.静态文件位于/static
+
+
 # url_for('static', filename = 'style.css')
-
-
 """渲染模板"""
 # python内部的html不好相对笨拙.需要自己负责html转义,确保应用安全.flask配置了Jinja2模板引擎
 # 使用render_template()方法渲染模板,提供模板名称和需要作为参数传递给模板的变量.
@@ -157,8 +157,5 @@ with app.test_request_context():
 def hello(name=None):
     # html模板示例, 在template的hello.html
     return render_template('hello.html', name=name)
-
-
-
 
 
