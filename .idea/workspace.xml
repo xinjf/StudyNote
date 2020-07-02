@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
     <list default="true" id="51f354d7-a29c-456c-9e43-ee4d0d1e232b" name="Default Changelist" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/read&amp;write.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/read&amp;write_ini.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_study(test).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APIAuto/AutoScript/study_apiauto/case/test_selectmain.py" beforeDir="false" afterPath="$PROJECT_DIR$/APIAuto/AutoScript/study_apiauto/case/test_selectmain.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APIAuto/AutoScript/study_apiauto/data/login.json" beforeDir="false" afterPath="$PROJECT_DIR$/APIAuto/AutoScript/study_apiauto/data/login.json" afterDir="false" />
-=======
       <change afterPath="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/about_os.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/time/about_datetime.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/time/show_time.py" afterDir="false" />
@@ -25,11 +11,7 @@
       <change beforePath="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/html_report/htmltestrunner.py" beforeDir="false" afterPath="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/html_report/htmltestrunner.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/time/datetime.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/time/time.py" beforeDir="false" />
->>>>>>> xinj
     </list>
-=======
-    <list default="true" id="51f354d7-a29c-456c-9e43-ee4d0d1e232b" name="Default Changelist" comment="" />
->>>>>>> remotes/origin/2020.06.23
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,21 +19,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <SUITE FILE_PATH="coverage/python_study$read_write_ini.coverage" NAME="read&amp;write_ini Coverage Results" MODIFIED="1592467513471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study" />
-=======
-    <SUITE FILE_PATH="coverage/python_study$connect_mysql.coverage" NAME="connect_mysql Coverage Results" MODIFIED="1592632928092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study" />
-    <SUITE FILE_PATH="coverage/python_study$read_write_ini.coverage" NAME="read&amp;write_ini Coverage Results" MODIFIED="1592477538633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study" />
->>>>>>> remotes/origin/2020.06.23
-=======
     <SUITE FILE_PATH="coverage/python_study$about_datetime.coverage" NAME="about_datetime Coverage Results" MODIFIED="1592899747054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/time" />
     <SUITE FILE_PATH="coverage/python_study$datetime.coverage" NAME="datetime Coverage Results" MODIFIED="1592894437412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/time" />
     <SUITE FILE_PATH="coverage/python_study$connect_mysql.coverage" NAME="connect_mysql Coverage Results" MODIFIED="1592632928092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study" />
     <SUITE FILE_PATH="coverage/python_study$time_mktime.coverage" NAME="time_mktime Coverage Results" MODIFIED="1592901865281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/time" />
     <SUITE FILE_PATH="coverage/python_study$about_os.coverage" NAME="about_os Coverage Results" MODIFIED="1592902513923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study" />
     <SUITE FILE_PATH="coverage/python_study$read_write_ini.coverage" NAME="read&amp;write_ini Coverage Results" MODIFIED="1592477538633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study" />
->>>>>>> xinj
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -70,80 +43,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/APIAuto/StudyNote/precondition/ApiTest.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="19">
-                <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
-              </first_editor>
-              <second_editor />
-=======
-        <entry file="file://$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/read&amp;write_ini.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
->>>>>>> remotes/origin/2020.06.23
-=======
         <entry file="file://$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/read&amp;write_ini.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
->>>>>>> xinj
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-<<<<<<< HEAD
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/APIAuto/StudyNote/precondition/HttpProtocol/HttpProtocol.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-=======
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/connect_mysql.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
->>>>>>> remotes/origin/2020.06.23
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/APIAuto/AutoScript/study_apiauto/api/api_login.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/read&amp;write_ini.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/APIAuto/AutoScript/study_apiauto/case/test_selectmain.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-=======
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/delete_expired_files.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-152">
               <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
->>>>>>> xinj
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -151,51 +63,11 @@
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/APIAuto/AutoScript/study_apiauto/api/api_select_main.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/APIAuto/AutoScript/study_apiauto/data/login.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/APIAuto/AutoScript/study_apiauto/data/selectmain.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib/configparser.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="1191" column="6" selection-start-line="1191" selection-start-column="6" selection-end-line="1191" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/read&amp;write.ini">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-=======
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/about_os.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
               <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
->>>>>>> xinj
             </state>
           </provider>
         </entry>
@@ -209,14 +81,11 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-=======
   <component name="FindInProjectRecents">
     <findStrings>
       <find>info</find>
     </findStrings>
   </component>
->>>>>>> xinj
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -229,34 +98,11 @@
         <option value="$PROJECT_DIR$/APIAuto/StudyNote/precondition/APITestSkills.md" />
         <option value="$PROJECT_DIR$/APIAuto/StudyNote/precondition/HttpProtocol.md" />
         <option value="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/read$write.ini" />
-<<<<<<< HEAD
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/read&amp;write_ini.py" />
-        <option value="$PROJECT_DIR$/APIAuto/AutoScript/study_apiauto/case/test_selectmain.py" />
-        <option value="$PROJECT_DIR$/APIAuto/AutoScript/study_apiauto/data/login.json" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2493" />
-    <option name="y" value="119" />
-=======
-=======
->>>>>>> xinj
         <option value="$PROJECT_DIR$/APIAuto/AutoScript/study_apiauto/case/test_selectmain.py" />
         <option value="$PROJECT_DIR$/APIAuto/AutoScript/study_apiauto/data/login.json" />
         <option value="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/read&amp;write_ini.py" />
         <option value="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/read&amp;write.ini" />
         <option value="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/connect_mysql.py" />
-<<<<<<< HEAD
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-25" />
-    <option name="y" value="33" />
->>>>>>> remotes/origin/2020.06.23
-=======
         <option value="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/html_report/htmltestrunner.py" />
         <option value="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/time/datetime.py" />
         <option value="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/time/about_datetime.py" />
@@ -268,14 +114,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-<<<<<<< HEAD
     <option name="x" value="1890" />
     <option name="y" value="150" />
->>>>>>> xinj
-=======
-    <option name="x" value="2119" />
-    <option name="y" value="134" />
->>>>>>> xinj
     <option name="width" value="1934" />
     <option name="height" value="1067" />
   </component>
@@ -309,13 +149,6 @@
               <item name="APIAuto" type="462c0819:PsiDirectoryNode" />
               <item name="StudyNote" type="462c0819:PsiDirectoryNode" />
               <item name="APIAuto_study" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-            </path>
-            <path>
-              <item name="python_study" type="b2602c69:ProjectViewProjectNode" />
-=======
             </path>
             <path>
               <item name="python_study" type="b2602c69:ProjectViewProjectNode" />
@@ -327,15 +160,10 @@
             </path>
             <path>
               <item name="python_study" type="b2602c69:ProjectViewProjectNode" />
->>>>>>> xinj
               <item name="python_study" type="462c0819:PsiDirectoryNode" />
               <item name="APIAuto" type="462c0819:PsiDirectoryNode" />
               <item name="StudyNote" type="462c0819:PsiDirectoryNode" />
               <item name="precondition" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
->>>>>>> remotes/origin/2020.06.23
-=======
->>>>>>> xinj
             </path>
           </expand>
           <select />
@@ -371,12 +199,6 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-<<<<<<< HEAD
-  <component name="RunManager">
-=======
-  <component name="RunManager" selected="Python.connect_mysql">
-=======
   <component name="RunManager" selected="Python.about_os">
     <configuration name="about_datetime" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_study" />
@@ -422,7 +244,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
->>>>>>> xinj
     <configuration name="connect_mysql" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -445,12 +266,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-<<<<<<< HEAD
->>>>>>> remotes/origin/2020.06.23
-    <configuration name="read&amp;write_ini" type="PythonConfigurationType" factoryName="Python" temporary="true">
-=======
     <configuration name="datetime" type="PythonConfigurationType" factoryName="Python" temporary="true">
->>>>>>> xinj
       <module name="python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -458,9 +274,6 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-<<<<<<< HEAD
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study" />
-=======
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/time" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -484,16 +297,11 @@
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/time" />
->>>>>>> xinj
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-<<<<<<< HEAD
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/read&amp;write_ini.py" />
-=======
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/time/time_mktime.py" />
->>>>>>> xinj
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -504,19 +312,11 @@
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-        <item itemvalue="Python.connect_mysql" />
->>>>>>> remotes/origin/2020.06.23
-        <item itemvalue="Python.read&amp;write_ini" />
-=======
         <item itemvalue="Python.about_os" />
         <item itemvalue="Python.time_mktime" />
         <item itemvalue="Python.about_datetime" />
         <item itemvalue="Python.datetime" />
         <item itemvalue="Python.connect_mysql" />
->>>>>>> xinj
       </list>
     </recent_temporary>
   </component>
@@ -533,41 +333,14 @@
       <workItem from="1591921670367" duration="3143000" />
       <workItem from="1591958488309" duration="5227000" />
       <workItem from="1592451789323" duration="4407000" />
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-      <workItem from="1592468351463" duration="2967000" />
-      <workItem from="1592534866143" duration="5160000" />
-      <workItem from="1592613470444" duration="6815000" />
->>>>>>> remotes/origin/2020.06.23
-=======
       <workItem from="1592468351463" duration="2967000" />
       <workItem from="1592534866143" duration="5160000" />
       <workItem from="1592613470444" duration="6815000" />
       <workItem from="1592891722778" duration="9181000" />
->>>>>>> xinj
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="12777000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="2493" y="119" width="1934" height="1047" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.255603" />
-=======
-    <option name="totallyTimeSpent" value="27719000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-295" y="65" width="1934" height="1047" extended-state="1" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26360726" />
->>>>>>> remotes/origin/2020.06.23
-=======
     <option name="totallyTimeSpent" value="36900000" />
   </component>
   <component name="ToolWindowManager">
@@ -575,20 +348,11 @@
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26627535" />
->>>>>>> xinj
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-<<<<<<< HEAD
-<<<<<<< HEAD
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33296824" />
-=======
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33515882" />
->>>>>>> remotes/origin/2020.06.23
-=======
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33440515" />
->>>>>>> xinj
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -639,11 +403,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="858">
           <caret line="89" selection-start-line="89" selection-end-line="89" />
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> xinj
         </state>
       </provider>
     </entry>
@@ -656,10 +415,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-<<<<<<< HEAD
->>>>>>> remotes/origin/2020.06.23
-=======
->>>>>>> xinj
         </state>
       </provider>
     </entry>
@@ -683,49 +438,20 @@
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib/configparser.py">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-<<<<<<< HEAD
-        <state relative-caret-position="298">
-=======
         <state relative-caret-position="412">
->>>>>>> remotes/origin/2020.06.23
-=======
-        <state relative-caret-position="412">
->>>>>>> xinj
           <caret line="1191" column="6" selection-start-line="1191" selection-start-column="6" selection-end-line="1191" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/read&amp;write.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-=======
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib/site-packages/pymysql/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="74">
           <caret line="87" column="4" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
->>>>>>> xinj
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/read&amp;write_ini.py">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="399">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APIAuto/AutoScript/study_apiauto/case/test_selectmain.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-=======
         <state>
           <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
         </state>
@@ -750,54 +476,10 @@
         <state>
           <folding>
             <element signature="e#0#9#0" expanded="true" />
->>>>>>> xinj
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/APIAuto/AutoScript/study_apiauto/api/api_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APIAuto/AutoScript/study_apiauto/api/api_select_main.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APIAuto/AutoScript/study_apiauto/data/login.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APIAuto/AutoScript/study_apiauto/data/selectmain.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-=======
-    <entry file="file://$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/read&amp;write_ini.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib/site-packages/pymysql/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="87" column="4" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/connect_mysql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
->>>>>>> remotes/origin/2020.06.23
-=======
     <entry file="file://$PROJECT_DIR$/APIAuto/StudyNote/APIAuto_study/time/about_datetime.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
@@ -855,9 +537,870 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
->>>>>>> xinj
         </state>
       </provider>
     </entry>
   </component>
 </project>
+   <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="190">
+                <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              </first_editor>
+              <second_editor />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
