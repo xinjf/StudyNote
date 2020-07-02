@@ -1,5 +1,4 @@
 from flask import Flask, url_for, escape, request, render_template
-
 # 自定义的模块用一下方式
 # app = Flask("your_application")
 # app = Flask(__name__.split(".")[0])
@@ -140,6 +139,7 @@ with app.test_request_context():
 #         return show_the_login_form()
 #
 
+
 """静态文件"""
 # 动态的web应用也需要静态文件，一般是CSS和Javascript文件。
 # 通常服务器配置好了为你提供静态文件的服务.在开发过程中,FLASK也可以做到.
@@ -155,8 +155,10 @@ with app.test_request_context():
 @app.route('/hello/')
 @app.route('/hello/<name>')
 def hello(name=None):
+    # html模板示例, 在template的hello.html
     return render_template('hello.html', name=name)
 
-# html模板示例, 在template的hello.html
+
+
 
 
