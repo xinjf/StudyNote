@@ -1,0 +1,22 @@
+
+
+
+1、 创建一个分支,并切换到新的分支
+git branch dev
+git checkout dev
+
+可通过checkout -b 新建并切换
+git checkout -b dev
+
+2、列出所有分支(当前分支前有 * )
+git branch
+
+
+3、修改代码之后，正常提交
+git add file.py
+git commit -m "test"
+
+
+
+
+
