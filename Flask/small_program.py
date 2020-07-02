@@ -137,7 +137,6 @@ with app.test_request_context():
 #         return do_the_login()
 #     else:
 #         return show_the_login_form()
-#
 
 
 """静态文件"""
