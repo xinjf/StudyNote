@@ -1,0 +1,14 @@
+
+1、第一步：创建一个空目录
+mkdir learngit
+cd learngit
+
+2、第二步：通过git init命令把这个目录变成git可以管理的仓库
+git init                  # ls -ah  查看隐藏的.git文件
+
+# 编辑任何文本文件，建议使用notepad ++ , 默认编码设置为UTF -8.
+
+3、
+
+
+
