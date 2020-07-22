@@ -1,0 +1,23 @@
+
+1、第一步：创建一个空目录
+mkdir learngit
+cd learngit
+
+2、第二步：通过git init命令把这个目录变成git可以管理的仓库
+git init                  # ls -ah  查看隐藏的.git文件
+
+# 编辑任何文本文件，建议使用notepad ++ , 默认编码设置为UTF -8.
+
+3、配置
+git init之后，必要的配置信息，姓名、邮箱
+查看 ： git config -l
+git config user.name  "xinj"
+git config user.email "xxxxx@163.com"
+
+
+4、本地提交
+git add filename       加入缓存
+git add . 和 git add -A 的区别。（ . 把新增的文件、修改的文件都加入到缓存库； -A 新增、修改的文件+删除的文件 ）
+git commit -m "描述"   提交到文件库
+
+git add -am "描述"   ==   git add + git commit
